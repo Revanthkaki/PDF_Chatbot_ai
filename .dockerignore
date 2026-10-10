@@ -1,0 +1,8 @@
+node_modules
+.next
+.next-development
+.git
+.env*
+data
+test-results
+playwright-report
